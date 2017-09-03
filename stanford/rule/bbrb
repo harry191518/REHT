@@ -1,0 +1,62 @@
+=== Reading Cisco Router Config File ===
+88
+[{'transport_src_end': 65535, 'ip_protocol': 0, 'transport_src_begin': 0, 'transport_ctrl_end': 255, 'src_ip': 0, 'transport_dst_end': 65535, 'dst_ip': 0, 'action': True, 'dst_ip_mask': 4294967295, 'src_ip_mask': 4294967295, 'transport_ctrl_begin': 0, 'transport_dst_begin': 0}]
+89
+[{'transport_src_end': 65535, 'ip_protocol': 0, 'transport_src_begin': 0, 'transport_ctrl_end': 255, 'src_ip': 0, 'transport_dst_end': 65535, 'dst_ip': 0, 'action': True, 'dst_ip_mask': 4294967295, 'src_ip_mask': 0, 'transport_ctrl_begin': 0, 'transport_dst_begin': 0}]
+64
+[{'transport_src_end': 65535, 'ip_protocol': 0, 'transport_src_begin': 0, 'transport_ctrl_end': 255, 'src_ip': 2873098240, 'transport_dst_end': 65535, 'dst_ip': 0, 'action': True, 'dst_ip_mask': 4294967295, 'src_ip_mask': 0, 'transport_ctrl_begin': 0, 'transport_dst_begin': 0}]
+65
+[{'transport_src_end': 65535, 'ip_protocol': 0, 'transport_src_begin': 0, 'transport_ctrl_end': 255, 'src_ip': 2873163776, 'transport_dst_end': 65535, 'dst_ip': 0, 'action': True, 'dst_ip_mask': 4294967295, 'src_ip_mask': 0, 'transport_ctrl_begin': 0, 'transport_dst_begin': 0}]
+66
+[{'transport_src_end': 65535, 'ip_protocol': 0, 'transport_src_begin': 0, 'transport_ctrl_end': 255, 'src_ip': 2873253888, 'transport_dst_end': 65535, 'dst_ip': 0, 'action': True, 'dst_ip_mask': 4294967295, 'src_ip_mask': 0, 'transport_ctrl_begin': 0, 'transport_dst_begin': 0}]
+24
+[{'transport_src_end': 65535, 'ip_protocol': 0, 'transport_src_begin': 0, 'transport_ctrl_end': 255, 'src_ip': 2887254016, 'transport_dst_end': 65535, 'dst_ip': 0, 'action': True, 'dst_ip_mask': 4294967295, 'src_ip_mask': 0, 'transport_ctrl_begin': 0, 'transport_dst_begin': 0}]
+20
+[{'transport_src_end': 65535, 'ip_protocol': 0, 'transport_src_begin': 0, 'transport_ctrl_end': 255, 'src_ip': 184287232, 'transport_dst_end': 65535, 'dst_ip': 0, 'action': True, 'dst_ip_mask': 4294967295, 'src_ip_mask': 0, 'transport_ctrl_begin': 0, 'transport_dst_begin': 0}]
+21
+[{'transport_src_end': 65535, 'ip_protocol': 0, 'transport_src_begin': 0, 'transport_ctrl_end': 255, 'src_ip': 2886992080, 'transport_dst_end': 65535, 'dst_ip': 0, 'action': True, 'dst_ip_mask': 4294967295, 'src_ip_mask': 7, 'transport_ctrl_begin': 0, 'transport_dst_begin': 0}, {'transport_src_end': 65535, 'ip_protocol': 0, 'transport_src_begin': 0, 'transport_ctrl_end': 255, 'src_ip': 2886992088, 'transport_dst_end': 65535, 'dst_ip': 0, 'action': True, 'dst_ip_mask': 4294967295, 'src_ip_mask': 3, 'transport_ctrl_begin': 0, 'transport_dst_begin': 0}, {'transport_src_end': 65535, 'ip_protocol': 0, 'transport_src_begin': 0, 'transport_ctrl_end': 255, 'src_ip': 2886992032, 'transport_dst_end': 65535, 'dst_ip': 0, 'action': True, 'dst_ip_mask': 4294967295, 'src_ip_mask': 31, 'transport_ctrl_begin': 0, 'transport_dst_begin': 0}]
+48
+[{'transport_src_end': 65535, 'ip_protocol': 0, 'transport_src_begin': 0, 'transport_ctrl_end': 255, 'src_ip': 184025088, 'transport_dst_end': 65535, 'dst_ip': 0, 'action': True, 'dst_ip_mask': 4294967295, 'src_ip_mask': 0, 'transport_ctrl_begin': 0, 'transport_dst_begin': 0}]
+49
+[{'transport_src_end': 65535, 'ip_protocol': 0, 'transport_src_begin': 0, 'transport_ctrl_end': 255, 'src_ip': 3507206144, 'transport_dst_end': 65535, 'dst_ip': 0, 'action': True, 'dst_ip_mask': 4294967295, 'src_ip_mask': 0, 'transport_ctrl_begin': 0, 'transport_dst_begin': 0}]
+28
+[{'transport_src_end': 65535, 'ip_protocol': 0, 'transport_src_begin': 0, 'transport_ctrl_end': 255, 'src_ip': 2148270080, 'transport_dst_end': 65535, 'dst_ip': 0, 'action': True, 'dst_ip_mask': 4294967295, 'src_ip_mask': 0, 'transport_ctrl_begin': 0, 'transport_dst_begin': 0}]
+29
+[{'transport_src_end': 65535, 'ip_protocol': 0, 'transport_src_begin': 0, 'transport_ctrl_end': 255, 'src_ip': 2148270080, 'transport_dst_end': 65535, 'dst_ip': 0, 'action': True, 'dst_ip_mask': 4294967295, 'src_ip_mask': 65535, 'transport_ctrl_begin': 0, 'transport_dst_begin': 0}, {'transport_src_end': 65535, 'ip_protocol': 0, 'transport_src_begin': 0, 'transport_ctrl_end': 255, 'src_ip': 2886926336, 'transport_dst_end': 65535, 'dst_ip': 0, 'action': True, 'dst_ip_mask': 4294967295, 'src_ip_mask': 65535, 'transport_ctrl_begin': 0, 'transport_dst_begin': 0}]
+3
+[{'transport_src_end': 65535, 'ip_protocol': 0, 'transport_src_begin': 0, 'transport_ctrl_end': 255, 'src_ip': 2873098240, 'transport_dst_end': 65535, 'dst_ip': 0, 'action': True, 'dst_ip_mask': 4294967295, 'src_ip_mask': 262143, 'transport_ctrl_begin': 0, 'transport_dst_begin': 0}, {'transport_src_end': 65535, 'ip_protocol': 0, 'transport_src_begin': 0, 'transport_ctrl_end': 255, 'src_ip': 2887454752, 'transport_dst_end': 65535, 'dst_ip': 0, 'action': True, 'dst_ip_mask': 4294967295, 'src_ip_mask': 31, 'transport_ctrl_begin': 0, 'transport_dst_begin': 0}]
+4
+[{'transport_src_end': 65535, 'ip_protocol': 0, 'transport_src_begin': 0, 'transport_ctrl_end': 255, 'src_ip': 2873098240, 'transport_dst_end': 65535, 'dst_ip': 0, 'action': True, 'dst_ip_mask': 4294967295, 'src_ip_mask': 262143, 'transport_ctrl_begin': 0, 'transport_dst_begin': 0}, {'transport_src_end': 65535, 'ip_protocol': 0, 'transport_src_begin': 0, 'transport_ctrl_end': 255, 'src_ip': 2148270080, 'transport_dst_end': 65535, 'dst_ip': 0, 'action': True, 'dst_ip_mask': 4294967295, 'src_ip_mask': 65535, 'transport_ctrl_begin': 0, 'transport_dst_begin': 0}]
+8
+[{'transport_src_end': 65535, 'ip_protocol': 0, 'transport_src_begin': 0, 'transport_ctrl_end': 255, 'src_ip': 2873098944, 'transport_dst_end': 65535, 'dst_ip': 0, 'action': True, 'dst_ip_mask': 4294967295, 'src_ip_mask': 0, 'transport_ctrl_begin': 0, 'transport_dst_begin': 0}, {'transport_src_end': 65535, 'ip_protocol': 0, 'transport_src_begin': 0, 'transport_ctrl_end': 255, 'src_ip': 3232237568, 'transport_dst_end': 65535, 'dst_ip': 0, 'action': True, 'dst_ip_mask': 4294967295, 'src_ip_mask': 0, 'transport_ctrl_begin': 0, 'transport_dst_begin': 0}]
+99
+[{'transport_src_end': 65535, 'ip_protocol': 0, 'transport_src_begin': 0, 'transport_ctrl_end': 255, 'src_ip': 0, 'transport_dst_end': 65535, 'dst_ip': 0, 'action': False, 'dst_ip_mask': 4294967295, 'src_ip_mask': 4294967295, 'transport_ctrl_begin': 0, 'transport_dst_begin': 0}]
+71
+[{'transport_src_end': 65535, 'ip_protocol': 0, 'transport_src_begin': 0, 'transport_ctrl_end': 255, 'src_ip': 2873098240, 'transport_dst_end': 65535, 'dst_ip': 0, 'action': True, 'dst_ip_mask': 4294967295, 'src_ip_mask': 262143, 'transport_ctrl_begin': 0, 'transport_dst_begin': 0}]
+70
+[{'transport_src_end': 65535, 'ip_protocol': 0, 'transport_src_begin': 0, 'transport_ctrl_end': 255, 'src_ip': 2873358336, 'transport_dst_end': 65535, 'dst_ip': 0, 'action': True, 'dst_ip_mask': 4294967295, 'src_ip_mask': 0, 'transport_ctrl_begin': 0, 'transport_dst_begin': 0}, {'transport_src_end': 65535, 'ip_protocol': 0, 'transport_src_begin': 0, 'transport_ctrl_end': 255, 'src_ip': 2873358848, 'transport_dst_end': 65535, 'dst_ip': 0, 'action': True, 'dst_ip_mask': 4294967295, 'src_ip_mask': 0, 'transport_ctrl_begin': 0, 'transport_dst_begin': 0}, {'transport_src_end': 65535, 'ip_protocol': 0, 'transport_src_begin': 0, 'transport_ctrl_end': 255, 'src_ip': 2887514624, 'transport_dst_end': 65535, 'dst_ip': 0, 'action': True, 'dst_ip_mask': 4294967295, 'src_ip_mask': 0, 'transport_ctrl_begin': 0, 'transport_dst_begin': 0}, {'transport_src_end': 65535, 'ip_protocol': 0, 'transport_src_begin': 0, 'transport_ctrl_end': 255, 'src_ip': 2887514112, 'transport_dst_end': 65535, 'dst_ip': 0, 'action': True, 'dst_ip_mask': 4294967295, 'src_ip_mask': 0, 'transport_ctrl_begin': 0, 'transport_dst_begin': 0}, {'transport_src_end': 65535, 'ip_protocol': 0, 'transport_src_begin': 0, 'transport_ctrl_end': 255, 'src_ip': 2873098327, 'transport_dst_end': 65535, 'dst_ip': 0, 'action': True, 'dst_ip_mask': 4294967295, 'src_ip_mask': 0, 'transport_ctrl_begin': 0, 'transport_dst_begin': 0}]
+91
+[{'transport_src_end': 65535, 'ip_protocol': 0, 'transport_src_begin': 0, 'transport_ctrl_end': 255, 'src_ip': 0, 'transport_dst_end': 65535, 'dst_ip': 0, 'action': True, 'dst_ip_mask': 4294967295, 'src_ip_mask': 4294967295, 'transport_ctrl_begin': 0, 'transport_dst_begin': 0}]
+90
+[{'transport_src_end': 65535, 'ip_protocol': 0, 'transport_src_begin': 0, 'transport_ctrl_end': 255, 'src_ip': 0, 'transport_dst_end': 65535, 'dst_ip': 0, 'action': True, 'dst_ip_mask': 4294967295, 'src_ip_mask': 0, 'transport_ctrl_begin': 0, 'transport_dst_begin': 0}]
+97
+[{'transport_src_end': 65535, 'ip_protocol': 0, 'transport_src_begin': 0, 'transport_ctrl_end': 255, 'src_ip': 2886729728, 'transport_dst_end': 65535, 'dst_ip': 0, 'action': False, 'dst_ip_mask': 4294967295, 'src_ip_mask': 65535, 'transport_ctrl_begin': 0, 'transport_dst_begin': 0}, {'transport_src_end': 65535, 'ip_protocol': 0, 'transport_src_begin': 0, 'transport_ctrl_end': 255, 'src_ip': 0, 'transport_dst_end': 65535, 'dst_ip': 0, 'action': True, 'dst_ip_mask': 4294967295, 'src_ip_mask': 4294967295, 'transport_ctrl_begin': 0, 'transport_dst_begin': 0}]
+39
+[{'transport_src_end': 65535, 'ip_protocol': 0, 'transport_src_begin': 0, 'transport_ctrl_end': 255, 'src_ip': 3432539136, 'transport_dst_end': 65535, 'dst_ip': 0, 'action': True, 'dst_ip_mask': 4294967295, 'src_ip_mask': 1023, 'transport_ctrl_begin': 0, 'transport_dst_begin': 0}]
+22
+[{'transport_src_end': 65535, 'ip_protocol': 0, 'transport_src_begin': 0, 'transport_ctrl_end': 255, 'src_ip': 2873358592, 'transport_dst_end': 65535, 'dst_ip': 0, 'action': True, 'dst_ip_mask': 4294967295, 'src_ip_mask': 127, 'transport_ctrl_begin': 0, 'transport_dst_begin': 0}]
+17
+[{'transport_src_end': 65535, 'ip_protocol': 0, 'transport_src_begin': 0, 'transport_ctrl_end': 255, 'src_ip': 2873102816, 'transport_dst_end': 65535, 'dst_ip': 0, 'action': True, 'dst_ip_mask': 4294967295, 'src_ip_mask': 0, 'transport_ctrl_begin': 0, 'transport_dst_begin': 0}]
+16
+[{'transport_src_end': 65535, 'ip_protocol': 0, 'transport_src_begin': 0, 'transport_ctrl_end': 255, 'src_ip': 1123681100, 'transport_dst_end': 65535, 'dst_ip': 0, 'action': True, 'dst_ip_mask': 4294967295, 'src_ip_mask': 0, 'transport_ctrl_begin': 0, 'transport_dst_begin': 0}]
+32
+[{'transport_src_end': 65535, 'ip_protocol': 0, 'transport_src_begin': 0, 'transport_ctrl_end': 255, 'src_ip': 2148270080, 'transport_dst_end': 65535, 'dst_ip': 0, 'action': True, 'dst_ip_mask': 4294967295, 'src_ip_mask': 0, 'transport_ctrl_begin': 0, 'transport_dst_begin': 0}, {'transport_src_end': 65535, 'ip_protocol': 0, 'transport_src_begin': 0, 'transport_ctrl_end': 255, 'src_ip': 2873098240, 'transport_dst_end': 65535, 'dst_ip': 0, 'action': True, 'dst_ip_mask': 4294967295, 'src_ip_mask': 0, 'transport_ctrl_begin': 0, 'transport_dst_begin': 0}]
+23
+[{'transport_src_end': 65535, 'ip_protocol': 0, 'transport_src_begin': 0, 'transport_ctrl_end': 255, 'src_ip': 2873358336, 'transport_dst_end': 65535, 'dst_ip': 0, 'action': True, 'dst_ip_mask': 4294967295, 'src_ip_mask': 1023, 'transport_ctrl_begin': 0, 'transport_dst_begin': 0}, {'transport_src_end': 65535, 'ip_protocol': 0, 'transport_src_begin': 0, 'transport_ctrl_end': 255, 'src_ip': 2887514112, 'transport_dst_end': 65535, 'dst_ip': 0, 'action': True, 'dst_ip_mask': 4294967295, 'src_ip_mask': 1023, 'transport_ctrl_begin': 0, 'transport_dst_begin': 0}]
+51
+[{'transport_src_end': 65535, 'ip_protocol': 0, 'transport_src_begin': 0, 'transport_ctrl_end': 255, 'src_ip': 171048960, 'transport_dst_end': 65535, 'dst_ip': 0, 'action': True, 'dst_ip_mask': 4294967295, 'src_ip_mask': 0, 'transport_ctrl_begin': 0, 'transport_dst_begin': 0}]
+50
+[{'transport_src_end': 65535, 'ip_protocol': 0, 'transport_src_begin': 0, 'transport_ctrl_end': 255, 'src_ip': 184156160, 'transport_dst_end': 65535, 'dst_ip': 0, 'action': True, 'dst_ip_mask': 4294967295, 'src_ip_mask': 0, 'transport_ctrl_begin': 0, 'transport_dst_begin': 0}]
+52
+[{'transport_src_end': 65535, 'ip_protocol': 0, 'transport_src_begin': 0, 'transport_ctrl_end': 255, 'src_ip': 184287232, 'transport_dst_end': 65535, 'dst_ip': 0, 'action': True, 'dst_ip_mask': 4294967295, 'src_ip_mask': 0, 'transport_ctrl_begin': 0, 'transport_dst_begin': 0}]
+=== DONE Reading Cisco Router Config File ===
